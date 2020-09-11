@@ -30,6 +30,8 @@ jobs:
       - run: npm ci
 
       - run: npm run generate
+        with:
+          DEPLOY_ENV: GH_PAGES
 
       - name: Deploy Pages
         uses: peaceiris/actions-gh-pages@v3
