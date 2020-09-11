@@ -37,6 +37,6 @@ Theses sample contribution headers will show on the right-hand-side table of con
 
 These are inspiration ideas for the central tree character. The primary motivation of the game is to help the tree grow and is the major game state. The tree can reward or punish the player for their actions, and is not always direct with what it wants.
 
-<img src="/post-media/week-one/tree.gif" />
-<img src="/post-media/week-one/tree-water.png" />
-<img src="/post-media/week-one/tree-pillars.png" />
+<img src="./media/week-one/tree.gif" />
+<img src="./media/week-one/tree-water.png" />
+<img src="./media/week-one/tree-pillars.png" />
