@@ -30,7 +30,7 @@ jobs:
       - run: npm ci
 
       - run: npm run generate
-        with:
+        env:
           DEPLOY_ENV: GH_PAGES
 
       - name: Deploy Pages
