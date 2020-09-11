@@ -31,7 +31,7 @@ Theses sample contribution headers will show on the right-hand-side table of con
 
 ### Quynh
 
-### Hiyorinne
+### Michaela
 
 ## Media
 
