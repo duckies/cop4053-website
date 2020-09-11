@@ -3,7 +3,7 @@
   "short_name": "cop4053-website",
   "description": "Progress website for the COP4053 AI for Game Programming course.",
   "icons": [],
-  "start_url": "/?standalone=true",
+  "start_url": "/cop4053-website/?standalone=true",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ff4785",
