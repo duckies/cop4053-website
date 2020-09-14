@@ -1,41 +1,39 @@
 ---
 title: "Week One"
-description: "Our first week of development on the project"
+subtitle: "Week of September 14th, 2020"
+description: "Introduction to our project."
 category: Weekly Updates
-position: 1
+position: 2
 ---
 
-This is an example post to just show some content here. We're going to be writing our first post I assume after we make our presentation and discuss the project. View how to write markdown files [here](https://content.nuxtjs.org/writing).
+This week we presented our project to the class on Monday and have finalized our schedule for the subsequent weeks. The past few weeks were spent discussing the direction we wanted our project to go, floating around a few ideas using inspiration from games such as **Don't Starve**, **Oxygen Not Included**, **Stardew Valley**, and story archetypes from **Alice in Wonderland**.
 
-## Codeblocks
+## Synopsis
 
-Code formatting is supported for most languages by utilizing triple backticks and the `clike` option.
+The game starts when the main character falls into a ruinous cave space with little to observe aside from a withered tree amidst what was once an ornate central room. Spurred to some semblence of awakening, the tree invites the unexpected guest to help foster its growth by bringing new life to the main hall. From there the character comes to realize the tree is a forgotten deity, and the only way to escape this foreign environment is to see it flourish, though that may require more dangerous acts besides simple farming.
 
-```clike
-class Program
-{
-  static void Main(string[] args)
-  {
-    Console.WriteLine("I think this is C#?");
-  }
-}
-```
+## Links
+
+- [Game Proposal Slides](./media/week-one/CAP4053_Game_Proposal_Group_12.pdf)
 
 ## Contributions
 
-Theses sample contribution headers will show on the right-hand-side table of contents.
-
-### John
-
-### Will
-
-### Quynh
-
-### Michaela
+The group spent this first week coming up with mock designs for the character, interface, and environment as well as John and Quynh getting acquainted with making a simple environment and controls.
 
 ## Media
 
-These are inspiration ideas for the central tree character. The primary motivation of the game is to help the tree grow and is the major game state. The tree can reward or punish the player for their actions, and is not always direct with what it wants.
+### Art Style Ideas
+
+The art style being investigated is either going to be a pixel isomorphic or the gothic, Tim Burton-esque style of Klei Entertainment's Don't Starve game.
+
+<img src="./media/week-one/stardew.jpg" />
+<img src="./media/week-one/wormwood.png" />
+<img src="./media/week-one/Puft.png" />
+<img src="./media/week-one/Ay.png" />
+
+### Tree Deity
+
+These are inspiration for the central tree character. As the game state evolves towards the win condition, the tree will grow and its roots will break open corridors once closed.
 
 <img src="./media/week-one/tree.gif" />
 <img src="./media/week-one/tree-water.png" />
