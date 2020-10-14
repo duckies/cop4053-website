@@ -24,10 +24,10 @@ I deployed our AWS remote server using the free tier and set up Perforce. I made
 ## Art Concepts
 
 Here are some art concepts that Will drew up. We wanted the main character to look more androgenous and in a similar style as Don't Starve's main characters. Will also included some plants' designs.
-<img src="./media/week-two/intial-design.png" />
+<img src="./media/week-2/intial-design.png" />
 
 This is the front and back design of our main character.
-<img src="./media/week-two/character.png" />
+<img src="./media/week-2/character.png" />
 
 This is the rough sketch of the final stage of the tree deity once the player has harvested all the plants. 
-<img src="./media/week-two/tree.png" />
+<img src="./media/week-2/tree.png" />
