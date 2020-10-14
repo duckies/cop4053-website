@@ -14,7 +14,7 @@ The game starts when the main character falls into a ruinous cave space with lit
 
 ## Links
 
-- [Game Proposal Slides](./media/week-one/CAP4053_Game_Proposal_Group_12.pdf)
+- [Game Proposal Slides](./media/week-1/CAP4053_Game_Proposal_Group_12.pdf)
 
 ## Contributions
 
@@ -26,15 +26,15 @@ The group spent this first week coming up with mock designs for the character, i
 
 The art style being investigated is either going to be a pixel isomorphic or the gothic, Tim Burton-esque style of Klei Entertainment's Don't Starve game.
 
-<img src="./media/week-one/stardew.jpg" />
-<img src="./media/week-one/wormwood.png" />
-<img src="./media/week-one/Puft.png" />
-<img src="./media/week-one/Ay.png" />
+<img src="./media/week-1/stardew.jpg" />
+<img src="./media/week-1/wormwood.png" />
+<img src="./media/week-1/Puft.png" />
+<img src="./media/week-1/Ay.png" />
 
 ### Tree Deity
 
 These are inspiration for the central tree character. As the game state evolves towards the win condition, the tree will grow and its roots will break open corridors once closed.
 
-<img src="./media/week-one/tree.gif" />
-<img src="./media/week-one/tree-water.png" />
-<img src="./media/week-one/tree-pillars.png" />
+<img src="./media/week-1/tree.gif" />
+<img src="./media/week-1/tree-water.png" />
+<img src="./media/week-1/tree-pillars.png" />
