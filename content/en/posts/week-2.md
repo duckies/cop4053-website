@@ -16,10 +16,10 @@ This week was a focus on getting the initial setup completed. We walked through 
 
 ### Quynh
 
-With the help of Michaale and John, I managed to connect to the server and setup Perforce.
+With the help of Michaela and John, I managed to connect to the server and set up Perforce.
 
 ### Michaela
-
+I deployed our AWS remote server using the free tier and set up Perforce. I made a new Unity project for our team, uploaded it to Perforce, and called a group meeting for the week to troubleshoot any Perforce issues my team members were having and ensure that everyone was properly connected to the remote server.
 
 ## Art Concepts
 
