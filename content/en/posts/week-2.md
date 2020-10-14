@@ -24,7 +24,7 @@ With the help of Michaale and John, I managed to connect to the server and setup
 ## Art Concepts
 
 Here are some art concepts that Will drew up. We wanted the main character to look more androgenous and in a similar style as Don't Starve's main characters. Will also included some plants' designs.
-<img src="./media/week-two/initial-design.png" />
+<img src="./media/week-two/intial-design.png" />
 
 This is the front and back design of our main character.
 <img src="./media/week-two/character.png" />
