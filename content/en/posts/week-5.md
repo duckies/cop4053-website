@@ -12,8 +12,8 @@ This week we presented our first playable iteration of our project to the class 
 - [First Playable Slides](./media/week-5/CAP4053_FirstPlayable.pdf)
 
 ## State of the Game
-<img src="./media/week-5/game-state.webm" />
-<img src="./media/week-5/first-playable-demo.webm" />
+<img src="./media/week-5/game-state.mp4" />
+<img src="./media/week-5/first-playable-demo.mp4" />
 
 ## Contributions
 
