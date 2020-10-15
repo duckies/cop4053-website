@@ -6,14 +6,14 @@ category: Weekly Updates
 position: 6
 ---
 
-This week we presented our first playable iteration of our project to the class over Zoom. Our team finally settled on a 2D platformer playstyle for our game. We're happy that we've finally arrived on the right track and satisfied with how game production is going (although we'll have to speed it up).
+This week we presented our first playable iteration of our project to the class over Zoom. Our team finally settled on a 2D platformer playstyle for our game. We're happy that we've finally arrived on the right track and satisfied with how game production is going (although we'll have to speed up production from here on out).
 
 ## Links
 - [First Playable Slides](./media/week-5/CAP4053_FirstPlayable.pdf)
 
 ## State of the Game
-<img src="./media/week-5/game-state.mp4" />
-<img src="./media/week-5/first-playable-demo.mp4" />
+- [First Playable Demo Video](https://youtu.be/GRWnFBOJtKE)
+- [Current Game State (Beginning of Week 5) Video](https://youtu.be/578pxAmD8fE)
 
 ## Contributions
 
@@ -34,8 +34,8 @@ This week I put a lot of focus into completing our UI assets before our first pl
 
 ### Art Assets
 <img src="./media/week-5/ground-textures.png" />
-<img src="./media/week-5/new-slime-design" />
 <img src="./media/week-5/plants-and-tools.png" />
+<img src="./media/week-5/new-slime-design.png" />
 <img src="./media/week-5/ui-elements.png" />
 
 ### A Closing Statement
