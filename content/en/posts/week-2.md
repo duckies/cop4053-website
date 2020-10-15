@@ -29,6 +29,6 @@ Some initial game design concepts that include the base player sprite design and
 The front and back design of our main character, drawn by Will.
 <img src="./media/week-2/character.png" />
 
-## Sketches
+### Sketches
 The rough sketch of the final stage of the tree deity once the player has harvested all the plants, drawn by Will.
 <img src="./media/week-2/tree.png" />
