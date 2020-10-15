@@ -39,6 +39,8 @@ This week I put a lot of focus into completing our UI assets before our first pl
 <img src="./media/week-5/ground-textures.png" />
 <img src="./media/week-5/plants-and-tools.png" />
 <img src="./media/week-5/new-slime-design.png" />
+
+Finalized design of the game's current UI elements, drawn by Michaela. Matching the design of the UI elements to that of our team's world asset artist, Will's, style was difficult. I tried to keep in mind Don't Starve's sketchy style as I worked on these designs.
 <img src="./media/week-5/ui-elements.png" />
 
 ### A Closing Statement
