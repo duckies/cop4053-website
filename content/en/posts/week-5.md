@@ -36,9 +36,16 @@ This week I put a lot of focus into completing our UI assets before our first pl
 - Main game hub background music: [Pikmin OST - The Forest of Hope](https://www.youtube.com/watch?v=HoMx0BTPVgE)
 
 ### Art Assets
+The completed set of ground textures for our game's main hub area, drawn by Will. These designs may be altered slightly in the future to include less sharp edges, but it's something that we'll consider later in the game's production.
 <img src="./media/week-5/ground-textures.png" />
+
+The tree's sapling stage and completed four-stage growth cycle of our first plant, a mushroom, as well as player inventory items that include plant seeds and farming tools, drawn by Will.
 <img src="./media/week-5/plants-and-tools.png" />
+
+Updated design for our game's first monster, a slime, drawn by Will.
 <img src="./media/week-5/new-slime-design.png" />
+
+Finalized design of the game's current UI elements, drawn by Michaela. Matching the design of the UI elements to that of our team's world asset artist, Will's, style was difficult. I tried to keep in mind Don't Starve's sketchy style as I worked on these designs.
 <img src="./media/week-5/ui-elements.png" />
 
 ### A Closing Statement
