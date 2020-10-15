@@ -26,8 +26,8 @@ This week we had a class exam, so our thoughts were on that until we finished it
 ## Media
 
 ### Art Concepts
-<img src="./media/week-5/cave-tiles.png" />
-<img src="./media/week-5/player-sprite-complete.png" />
-<img src="./media/week-5/slime-initial-design.png" />
-<img src="./media/week-5/slime-angry-initial-design.png" />
-<img src="./media/week-5/spear-attack-planning.png" />
+<img src="./media/week-4/cave-tiles.png" />
+<img src="./media/week-4/player-sprite-complete.png" />
+<img src="./media/week-4/slime-initial-design.png" />
+<img src="./media/week-4/slime-angry-initial-design.png" />
+<img src="./media/week-4/spear-attack-planning.png" />
