@@ -28,7 +28,7 @@ After the whole debacle this week of trying to decide which style of game we wer
 
 ## Media
 
-### Art Concepts
+### Art Assets
 The 3x3 set of platform tiles we'll be using for the main hub area in our game, drawn by Will.
 <img src="./media/week-4/cave-tiles.png" />
 
