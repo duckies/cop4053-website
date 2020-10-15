@@ -11,9 +11,9 @@ This week we had a class exam, so our thoughts were on that until we finished it
 That weeekend we met as a group again and decided that converting our game style to a 2D platformer would be the best way to preserve the original feel of our game, maintain use of the art assets we had already made, and ensure our game was still fun and engaging. We were on a time crunch with our first playable presentation less than a week away, so we decided to move ahead in development temporarily using freely available online assets to work on game functionality.
 
 ## State of the Game
-- [Current Game State (Week 4)](https://youtu.be/iDeeNZ-_WO8)
+- [Current Game State (Week 4) Video](https://youtu.be/iDeeNZ-_WO8)
 - [Tower Defense Game Attempt](./media/week-4/tower-defense-attempt.png)
-- [3D Unity Practice](https://youtu.be/8WGBb4SKh2M)
+- [3D Unity Practice Video](https://youtu.be/8WGBb4SKh2M)
 
 ## Contributions
 
