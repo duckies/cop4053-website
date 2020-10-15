@@ -34,7 +34,7 @@ After the whole debacle this week of trying to decide which style of game we wer
 <img src="./media/week-4/slime-initial-design.png" />
 <img src="./media/week-4/slime-angry-initial-design.png" />
 
-## Sketches
+### Sketches
 A rough sketch of the dialogue bubble for when characters are speaking in-game, drawn by Michaela. A colored shadow will be added under these speech bubbles to indicate who in the game is talking, and the bubble will flip in their direction.
 <img src="./media/week-4/dialogue-bubble-sketch.png" />
 
