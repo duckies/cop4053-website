@@ -24,6 +24,7 @@ That weeekend we met as a group again and decided that converting our game style
 ### Quynh
 
 ### Michaela
+After the whole debacle this week of trying to decide which style of game we were switching to, I had to start thinking of UI designs. I sketched out a few of these ideas, including ideas for the speech bubbles and menu buttons. Our team was engaged in constant communication this week as we tried to figure out what mechanics and art assets needed to be amended to make the switch from an isometric game to a 2D platformer game.
 
 ## Media
 
@@ -32,4 +33,13 @@ That weeekend we met as a group again and decided that converting our game style
 <img src="./media/week-4/player-sprite-complete.png" />
 <img src="./media/week-4/slime-initial-design.png" />
 <img src="./media/week-4/slime-angry-initial-design.png" />
+
+## Sketches
+A rough sketch of the dialogue bubble for when characters are speaking in-game, drawn by Michaela. A colored shadow will be added under these speech bubbles to indicate who in the game is talking, and the bubble will flip in their direction.
+<img src="./media/week-4/dialogue-bubble-sketch.png" />
+
+A concept sketch of the game menu button design, drawn by Michaela.
+<img src="./media/week-4/menu-button-sketch.png" />
+
+A concept sketch of the weapon we'll be using in game and how the aniamtions for it will function, when we were debating whether the main character's weapon should be a sword or spear, drawn by Will.
 <img src="./media/week-4/spear-attack-planning.png" />
