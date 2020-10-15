@@ -24,14 +24,21 @@ That weeekend we met as a group again and decided that converting our game style
 ### Quynh
 
 ### Michaela
-After the whole debacle this week of trying to decide which style of game we were switching to, I had to start thinking of UI designs. I sketched out a few of these ideas, including ideas for the speech bubbles and menu buttons. Our team was engaged in constant communication this week as we tried to figure out what mechanics and art assets needed to be amended to make the switch from an isometric game to a 2D platformer game.
+After the whole debacle this week of trying to decide which style of game we were switching to, I had to start thinking of UI designs. I was able to order a Huion drawing tablet from Amazon for relatively cheap. Once my tablet arrived, I sketched out a few of these ideas in Paint Tool SAI, including ideas for the speech bubbles and menu buttons. Our team was engaged in constant communication this week as we tried to figure out what mechanics and art assets needed to be amended to make the switch from an isometric game to a 2D platformer game.
 
 ## Media
 
 ### Art Concepts
+The 3x3 set of platform tiles we'll be using for the main hub area in our game, drawn by Will.
 <img src="./media/week-4/cave-tiles.png" />
+
+The finished turn-around for the player sprite, drawn by Will. This design goes on to be edited later to make the player sprite's overalls symmetrical to better compliment our 2D style.
 <img src="./media/week-4/player-sprite-complete.png" />
+
+The initial design of our first in-game monster, an innoncent little slime, drawn by Will. This design's lineart color, eyes, and general shape are later changed.
 <img src="./media/week-4/slime-initial-design.png" />
+
+A veriation on the above slime design to include angry eyes, drawn by Will. We're thinking this variation may work well as a boss monster for the first adventuring area.
 <img src="./media/week-4/slime-angry-initial-design.png" />
 
 ### Sketches
