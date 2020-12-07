@@ -31,10 +31,6 @@ This week I put a lot of focus into completing our UI assets before our first pl
 
 ## Media
 
-### Music
-- Main menu background music: [Pikmin 3 OST - A Rainy Day](https://www.youtube.com/watch?v=yFx8xsl1zG0)
-- Main game hub background music: [Pikmin OST - The Forest of Hope](https://www.youtube.com/watch?v=HoMx0BTPVgE)
-
 ### Art Assets
 The completed set of ground textures for our game's main hub area, drawn by Will. These designs may be altered slightly in the future to include less sharp edges, but it's something that we'll consider later in the game's production.
 <img src="./media/week-5/ground-textures.png" />
