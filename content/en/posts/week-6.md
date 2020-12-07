@@ -3,7 +3,7 @@ title: Week Six
 subtitle: Week of Octorber 19th, 2020
 description: Building the Forest
 category: Weekly Updates
-position: 6
+position: 7
 ---
 
 After our first playable, our first order of business was to clean up the starting area/main hub of our game and make it presentable. Our members worked on expanding this area to include more plots, a more complex layered area design and ladders to traverse it, some simple tutorial dialogue, and environmental decorations (fences, flowers, singposts etc.). Although not final, we ensured that our game's main tree would grow and change states in accordance with the growth of our other miscellaneous plants in the game.
