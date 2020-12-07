@@ -18,7 +18,7 @@ We were able to wrap up development of the forest area this week. Our team finis
 ### Will
 
 ### Quynh
-
+This week, John and I focused on completing the scripts for our monsters. I started to work on the fly enemy's attack. Since we are using a generic Enemies class that all enemies inherit, I also worked on incorparating the fly enemy's script to work with the generic enemy class.
 ### Michaela
 After John and Quynh completed the scripting for the forest area's monsters, I found appropriate spots in our level to place them. Will also made some extra decorations (grass patches, small cacti) for me to place throughout the area.
 
