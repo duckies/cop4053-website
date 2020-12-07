@@ -15,7 +15,7 @@ In our final (full) week of development, we were able to finish up our game's th
 ### Will
 
 ### Quynh
-
+I made some changes with the enemy's behavior, as well as adding the animation of the character shooting bow and arrow to the game.
 ### Michaela
 I made some final fixes to our game's areas-- adding unique backgrounds and background music to each area. I also lowered the overall game volume (in response to our playtesting feedback) and wrore a few more lines of last minute dialogue for our game's tutorial for the sake of clarity.
 
