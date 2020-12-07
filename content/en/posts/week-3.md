@@ -16,6 +16,8 @@ This week we had a quiz on Monday, as well as an exam next Monday, so we focused
 
 ### John
 
+This week was used setting up a rudimentary play space for testing the core functionalities we were needing. The flooring is to include a pattern for each zone that seemed well-supported by the tilemap feature. With some temporary assets we also tested the different camera views and angles for an isomorphic feel while the player moves.
+
 ### Will
 
 ### Quynh
