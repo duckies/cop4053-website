@@ -1,5 +1,5 @@
 ---
-title: Week Five
+title: Week Seven
 subtitle: Week of Octorber 26th, 2020
 description: Starting on the forest area
 category: Weekly Updates
