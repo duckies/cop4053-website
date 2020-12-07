@@ -19,7 +19,7 @@ Our second exam took place Monday of this week, so we were able to spend a minim
 ### Will
 
 ### Quynh
-
+Similar to the rest of my team, I spent my Monday reviewing materials for the exam. The rest of the week I spent on pressuring my friends to take our game survey.  
 ### Michaela
 Like most of the team, I spent my Monday studying in last-minute preparation for our exam. I met with everyone else to pitch some ideas for our playtesting iteration plan and was able to show a few videos of bugs that our playtesters were able to catch. I spent more time than I'd like to admit trying to replicate the bug where the player gets stuck in the floor, and we're still not entirely sure what exactly causes it.
 
