@@ -12,6 +12,7 @@ After our first playable, our first order of business was to clean up the starti
 
 ### John
 
+This week I focused on rounding out the primary functions of the game. Farming became activated through seed items and when a plant completes its growth cycle it will emit a growth completion event to signal to the tree diety, which represents the primary game state, to increment the win state. Some initial work was also done on handling the events for the different types of tools so we can add those in the future.
 ### Will
 
 ### Quynh
