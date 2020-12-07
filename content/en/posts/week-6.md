@@ -15,7 +15,7 @@ After our first playable, our first order of business was to clean up the starti
 ### Will
 
 ### Quynh
-
+I started to work on changing the script for our blob enemies. I initially plan for the blob to have coroutines and use a finite state machine (FSM) for the blob's attacking behavior
 ### Michaela
 My main task was environmental development-- adding platforms, decorations, and in general, planning the layout of our game's cave. I added some tilesets at the top of the cave to simulate the narrow, closed nature of a cave (which also serves to prevent the player from seeing the background seams). I carved out a raised, open area to place our game's tree and added raised platforms and farm plots scattered around the main hub's map. I attached ladders to the raised platforms to allow the player to traverse the map, added additional sources of lighting in the cave, and decorated the map with broken fences and flowers.
 
