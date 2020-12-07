@@ -15,6 +15,8 @@ With our main hub area mostly completed, our next step was to begin development 
 
 ### John
 
+This week I had worked with Quynh on building a system for enemies to inherit fighting styles. Our first enemies would be the patroller and turret, with variants for flying patroller and projectiles that seek or do not seek.
+
 ### Will
 
 ### Quynh
