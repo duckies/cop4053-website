@@ -18,7 +18,7 @@ With our main hub area mostly completed, our next step was to begin development 
 ### Will
 
 ### Quynh
-
+For this week, I continued my work with changing the slime's behavior by folowwing some tutorials about coroutines and working with IEnumerators.
 ### Michaela
 Like last week, this week was spent working on our game's tilemap. After a fair amount of trial and error, I was able to get together a nice layout for our game's forest area. I decorated the area with the flower tiles shown below and added ladders and signposts in the appropriate locations. I made sure to playtest the layout of this area a bit to ensure that the area was easily traversible.
 
