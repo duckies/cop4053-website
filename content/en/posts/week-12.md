@@ -18,7 +18,7 @@ In our final (full) week of development, we had to create a PowerPoint for our g
 ### Will
 
 ### Quynh
-
+LIke the rest of the group, I spent some time working on the AI presentation. I help John and Michaela with finishing up the enemy's behavior.
 ### Michaela
 I finalized the lava area's level design and placed the finished scripted enemies throughout the area. I contributed to the tutorial dialogue and did some more playtesting, which uncovered a few more minor ladder bugs that were quickly fixed.
 
