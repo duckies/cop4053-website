@@ -19,6 +19,8 @@ That weeekend we met as a group again and decided that converting our game style
 
 ### John
 
+After much frustration with the isometric style, which was less documented online, we decided to force ourselves into a typical 2D or 3D space. We ended up meeting and deciding to explore a 2D platformer base because Oxygen Not Included, a game made by the same company as Don't Starve, was a platformer but more in the ant-farm visual and less about running around and there are no other levels just a large square map. This also allowed us to retain our original art style.
+
 ### Will
 
 ### Quynh
