@@ -1,7 +1,7 @@
 ---
 title: Week Eleven
 subtitle: Week of November 23rd, 2020
-description: Finishing the snowy area, beginning of the lava area
+description: Finishing the snowy area, beginning of the lava area, Thanksgiving break
 category: Weekly Updates
 position: 12
 ---
@@ -15,7 +15,7 @@ With our game's due date quickly closing in, we've finished production on the sn
 ### Will
 
 ### Quynh
-
+I spent most of my time in this short week to view the survey's results, as well as trying to brainstorm ideas to fix all the bugs that the playtesters found with the team. The rest of the week is Thanksgiving break, so I haven't made any significant progress yet.
 ### Michaela
 Like most of the team, I spent my Monday studying in last-minute preparation for our exam. I met with everyone else to pitch some ideas for our playtesting iteration plan and was able to show a few videos of bugs that our playtesters were able to catch. I spent more time than I'd like to admit trying to replicate the bug where the player gets stuck in the floor, and we're still not entirely sure what exactly causes it. I completed a rough initial area design for the lava area on the tilemap using the tileset from Will.
 
