@@ -1,6 +1,6 @@
 ---
 title: Week Thirteen
-subtitle: Week of November 30th, 2020
+subtitle: Week of December 7th, 2020
 description: Finishing the lava area
 category: Weekly Updates
 position: 13
