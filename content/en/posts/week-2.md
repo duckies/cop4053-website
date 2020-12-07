@@ -12,6 +12,8 @@ This week was a focus on getting the initial setup completed. We walked through 
 
 ### John
 
+I spent this week exploring isometric game design in Unity. There were a few methodologies each with their own design challenges and implementation quirks.
+
 ### Will
 
 ### Quynh
