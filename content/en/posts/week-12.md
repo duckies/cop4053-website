@@ -6,10 +6,10 @@ category: Weekly Updates
 position: 13
 ---
 
-In our final (full) week of development, we were able to finish up our game's third area, the lava area. The plant assets associated with the lava area were finished this week and enemy behavior was fully scripted. We added a game over screen, additional dialogue, and an official ending to our game.
+In our final (full) week of development, we had to create a PowerPoint for our game's AI presentation for class, which took us a little while to gather resources for. Thankfully, following this we were able to finish up our game's third area, the lava area. The plant assets associated with the lava area were finished this week and enemy behavior was fully scripted. We added a game over screen, additional dialogue, and an official ending to our game.
 
 ## Links
-- [Game Survey Results](./media/week-10/AI-presentation.pdf)
+- [AI Presentation](./media/week-10/AI-presentation.pdf)
 
 ## Contributions
  

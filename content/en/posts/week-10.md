@@ -9,7 +9,7 @@ position: 11
 Our second exam took place Monday of this week, so we were able to spend a minimal amount of this week studying. We all went around and shared the link to our Google Forms playtest survey with our friends to get feedback on the current state of our game. We met to dicuss the results and drafted up documents containing the survey results and our plans moving forward in development. During the weekend, we were able to make some additional progress on our game's snowy area.
 
 ## Links
-- [Game Survey Results](./media/week-10/survey-reaction.pdf)
+- [Playtesting Iteration Plan](./media/week-10/survey-reaction.pdf)
 - [Game Survey Results](./media/week-10/survey-replies.pdf)
 
 ## Contributions
