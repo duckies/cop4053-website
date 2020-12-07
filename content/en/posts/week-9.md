@@ -21,7 +21,7 @@ That being said, with our second exam and first playtest coming up, we were conc
 ### Will
 
 ### Quynh
-
+Similar to others, I spent most my time this week studying for the exam, as well as wrapping up the game in order for us to survey people. I also transform the initial game survey document into a Google Survey Form so people can easility access it, and makes it easier for us to view the survey results. 
 ### Michaela
 The majority of my time this week was spent testing our game for bugs and studying for our upcoming exam. I did find an error where, under some unknown circumstances, the first series of tutorial text the user sees when they begin the game becomes jumbled after several lines, which was fixed by John.
 
