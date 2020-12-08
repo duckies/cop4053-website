@@ -12,6 +12,8 @@ With our game's due date quickly closing in, we've finished production on the sn
 
 ### John
 
+The results from our playtest mostly indicated that the problems stem from one of three categories: bugs, end-game, or lack of a cohesive tutorial experience. To be honest, we have more or less agreed amongst ourselves that the game's direction has become a little confused. The farming system clashes with the fighting system and there's no obviousness to what you need to do in the game. We're going to fix the confusing parts through tutorials, but we worry there's not much that can be done to make it more fun. We also applied some patches to things like teleporting and the ladders and hope those help. I'm also working on a way to make the dialog system less obtrusive.
+
 ### Will
 
 ### Quynh
