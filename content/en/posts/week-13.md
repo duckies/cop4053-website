@@ -28,3 +28,6 @@ I made some final fixes to our game's areas-- adding unique backgrounds and back
 ### Art Assets
 The intentory icon for our game's projectile weapon, a bow, drawn by Will.
 <img src="./media/week-13/bow-icon.png" />
+
+An illustration of our game's main character wielding our projectile weapon, a bow, and shooting it, drawn by Will.
+<img src="./media/week-13/bow-shoot.png" />
