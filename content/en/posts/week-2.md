@@ -16,6 +16,8 @@ I spent this week exploring isometric game design in Unity. There were a few met
 
 ### Will
 
+Primarily, I spent this week just preparing some concepts based around the art style ideas that we had previously come up with, making mock layouts of what our game should look like as well as the assets below. Trying to arrange the gameplay in a more isometric style, we decided that the Don’t Starve aesthetic would probably work the best for us.
+
 ### Quynh
 With the help of Michaela and John, I managed to connect to the server and set up Perforce.
 
