@@ -14,7 +14,7 @@ After our first playable, our first order of business was to clean up the starti
 
 This week I focused on rounding out the primary functions of the game. Farming became activated through seed items and when a plant completes its growth cycle it will emit a growth completion event to signal to the tree diety, which represents the primary game state, to increment the win state. Some initial work was also done on handling the events for the different types of tools so we can add those in the future.
 ### Will
-
+Not really much to say this week – I just drew some background assets, made some ladders to help vary the level design, and continued working on the plant concepts I originally had.
 ### Quynh
 I started to work on changing the script for our blob enemies. I initially plan for the blob to have coroutines and use a finite state machine (FSM) for the blob's attacking behavior
 ### Michaela
