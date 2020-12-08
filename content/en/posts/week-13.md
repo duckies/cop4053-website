@@ -12,6 +12,8 @@ In our final (full) week of development, we were able to finish up our game's th
  
 ### John
 
+I had helped add some last-minute polish these last few days. We tried to make sure we added enough story elements as possible, but my work with the scripting was largely over.
+
 ### Will
 
 ### Quynh
