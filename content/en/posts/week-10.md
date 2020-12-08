@@ -34,7 +34,7 @@ A snowy area plant resembling a heart, drawn by Will.
 <img src="./media/week-10/heart-plant.png" />
 
 A snowy area plant resembling a dreamy bush, drawn by Will.
-<img src="./media/week-10/dreamy-plant.png" />
+<img src="./media/week-10/dream-plant.png" />
 
 A snowy area plant resembling the planet Earth, drawn by Will.
 <img src="./media/week-10/earth-plant.png" />
