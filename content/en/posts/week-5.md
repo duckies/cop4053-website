@@ -27,6 +27,7 @@ This week was unfortunate productivity wise. I use Visual Studio Code to edit C#
 Nonetheless, I incorporated a basic farming system by using a special tilemap layer just for farm plots that are kept on load in a Vector2 of their coordinates and plot. Each plot has a basic timer that will cycle between an array of sprites for each growth stage until the growth hits the max level.
 
 ### Will
+I hadn’t mentioned this yet, but for the past three weeks I’ve been trying to fix my installation of Unity on my computer, and this was the point I finally broke – Literally nothing I did was fixing it and the person I reached out to with a alternative solution had the wrong version of Unity, making what I did incompatible with the team’s updated version of Unity. Defeated, I just worked on some menu icons (which you’ll notice are different from my sketches due to the size difference in the final menu design), and switched to trying to contribute in more conceptual ways so I could at least contribute to the game progress that way.
 
 ### Quynh
 
