@@ -29,4 +29,14 @@ Like most of the team, I spent my Monday studying in last-minute preparation for
 ## Media
 
 ### Art Assets
-(Snowy area plant assets will go here.)
+A snowy area plant resembling a heart, drawn by Will.
+<img src="./media/week-10/heart-plant.png" />
+
+A snowy area plant resembling a dreamy bush, drawn by Will.
+<img src="./media/week-10/dreamy-plant.png" />
+
+A snowy area plant resembling the planet Earth, drawn by Will.
+<img src="./media/week-10/earth-plant.png" />
+
+A snowy area plant with an abstract cube design, drawn by Will.
+<img src="./media/week-10/abstract-plant.png" />
