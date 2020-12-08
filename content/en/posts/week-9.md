@@ -34,10 +34,10 @@ The completed set of ground textures for our game's snowy area, drawn by Will. T
 <img src="./media/week-9/ice-tiles.png" />
 
 An enemy we dubbed the puppybun for its resemblance to something between a bunny and a puppy, drawn by Will.
-<img src="./media/week-10/puppybun.png" />
+<img src="./media/week-9/puppybun.png" />
 
 An snowflake enemy which will spin and shoot projectiles, drawn by Will.
-<img src="./media/week-10/snowflake.png" />
+<img src="./media/week-9/snowflake.png" />
 
 A snowman enemy which will break apart into three separate enemies when the player attacks it, drawn by Will.
-<img src="./media/week-10/snowman-parts.png" />
+<img src="./media/week-9/snowman-parts.png" />
