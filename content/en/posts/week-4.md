@@ -18,12 +18,11 @@ That weeekend we met as a group again and decided that converting our game style
 ## Contributions
 
 ### John
-
 After much frustration with the isometric style, which was less documented online, we decided to force ourselves into a typical 2D or 3D space. We ended up meeting and deciding to explore a 2D platformer base because Oxygen Not Included, a game made by the same company as Don't Starve, was a platformer but more in the ant-farm visual and less about running around and there are no other levels just a large square map. This also allowed us to retain our original art style.
 
 ### Will
-
 This week was especially frustrating because when we realized the scope of our project was way over our heads, I had to scrap some of the progress I made on things that would only be relevant in that art style (like pillars and décor for the main hub area), and I just focused on getting side sprites for the character and some ground tile textures done. To be blunt, textures are my weak suit, so if you notice some similarities with some other textures going forward… don’t blame me for trying to reuse the good things I made in a smart way!
+
 ### Quynh
 
 ### Michaela

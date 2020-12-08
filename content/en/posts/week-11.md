@@ -11,13 +11,14 @@ With our game's due date quickly closing in, we've finished production on the sn
 ## Contributions
 
 ### John
-
 The results from our playtest mostly indicated that the problems stem from one of three categories: bugs, end-game, or lack of a cohesive tutorial experience. To be honest, we have more or less agreed amongst ourselves that the game's direction has become a little confused. The farming system clashes with the fighting system and there's no obviousness to what you need to do in the game. We're going to fix the confusing parts through tutorials, but we worry there's not much that can be done to make it more fun. We also applied some patches to things like teleporting and the ladders and hope those help. I'm also working on a way to make the dialog system less obtrusive.
 
 ### Will
 Going home, I realized that I had a lot of extra time to work on things, so I tried to make the enemy design for this region a lot more special and interesting, especially that lizard. I realize I never said this but, I’m actually an extremely slow artist, so that alone took me a long time to make, and I hope it was worth it. Also, yes, I recolored the cave tiles again for the magma tiles, but do you see how versatile it is? It just works really well, I don’t know what else to say.
+
 ### Quynh
 I spent most of my time in this short week to view the survey's results, as well as trying to brainstorm ideas to fix all the bugs that the playtesters found with the team. The rest of the week is Thanksgiving break, so I haven't made any significant progress yet.
+
 ### Michaela
 Like most of the team, I spent my Monday studying in last-minute preparation for our exam. I met with everyone else to pitch some ideas for our playtesting iteration plan and was able to show a few videos of bugs that our playtesters were able to catch. I spent more time than I'd like to admit trying to replicate the bug where the player gets stuck in the floor, and we're still not entirely sure what exactly causes it. I completed a rough initial area design for the lava area on the tilemap using the tileset from Will.
 

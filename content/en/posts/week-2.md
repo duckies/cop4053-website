@@ -11,11 +11,9 @@ This week was a focus on getting the initial setup completed. We walked through 
 ## Contributions
 
 ### John
-
 I spent this week exploring isometric game design in Unity. There were a few methodologies each with their own design challenges and implementation quirks.
 
 ### Will
-
 Primarily, I spent this week just preparing some concepts based around the art style ideas that we had previously come up with, making mock layouts of what our game should look like as well as the assets below. Trying to arrange the gameplay in a more isometric style, we decided that the Don’t Starve aesthetic would probably work the best for us.
 
 ### Quynh

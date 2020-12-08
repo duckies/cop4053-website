@@ -21,7 +21,6 @@ Some of our members ran into issues with Unity this week which slowed down produ
 ## Contributions
 
 ### John
-
 This week was unfortunate productivity wise. I use Visual Studio Code to edit C# files and the extension with provides the language interpreter server updated and corrupted the project's ability to find referenced libraries. All of the assets and scripts were there, but Unity could not longer find various UnityEngine resources. After spending many hours redownloading and resetting, I found a brand-new issue on the GitHub for the C# VSCode extension with the same problem. I downgraded the extension and unfortunately had to re-create the project but our files were safe. Perforce was super confusing to use for no reason, so we switched to GitHub which also has a simple-to-use extension that was hassle free.
 
 Nonetheless, I incorporated a basic farming system by using a special tilemap layer just for farm plots that are kept on load in a Vector2 of their coordinates and plot. Each plot has a basic timer that will cycle between an array of sprites for each growth stage until the growth hits the max level.
