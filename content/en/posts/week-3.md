@@ -19,6 +19,7 @@ This week we had a quiz on Monday, as well as an exam next Monday, so we focused
 This week was used setting up a rudimentary play space for testing the core functionalities we were needing. The flooring is to include a pattern for each zone that seemed well-supported by the tilemap feature. With some temporary assets we also tested the different camera views and angles for an isomorphic feel while the player moves.
 
 ### Will
+Since we had a general idea of the mechanics we wanted to incorporate into the game, I spent some time doing designs for each of the basic items and writing out generally how they should function. I honestly was really busy this week, so I didn’t get much more than that done.
 
 ### Quynh
 This week I followed some tutorials on setting up tilings and character's sprites. I set up a temporary grass tile and a main scene to get use to Unity as well as committing changes to Perforce.
