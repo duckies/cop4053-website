@@ -18,6 +18,8 @@ That being said, with our second exam and first playtest coming up, we were conc
 
 ### John
 
+This week I focused on implementing a one-way collider for the top of the ladders. The ladders themselves are simple scripts detects the `up` arrow or `W` key when in the trigger collider for the ladder and modifies the target velocity in the movement script to allow upwards movement with no gravity. The script also allows for configuring the speed at which a character runs horizontally and vertically (on a ladder). The issue however, is the ladder colliders need to align with the colliders of the ground and also, the one-way collider at the top seems to have the ability to get players stuck. I'm investigating a solution but a worse-case is players fall if they walk on top of ladders.
+
 ### Will
 
 ### Quynh
