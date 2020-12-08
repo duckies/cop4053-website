@@ -15,6 +15,8 @@ We were able to wrap up development of the forest area this week. Our team finis
 
 ### John
 
+I worked with Quynh this week on shoring up the different enemy behaviors and also added the item drop chance to each enemy. It was this week that we decided that instead of harvesting the plants we should leave them up as more of a power-beacon mechanic, so we added in filling and watering but disabled harvesting. The dialog system was also tested with an auto-complete process but it was buggy so it was disabled.
+
 ### Will
 
 ### Quynh
