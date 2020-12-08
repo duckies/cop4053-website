@@ -18,7 +18,7 @@ We were able to wrap up development of the forest area this week. Our team finis
 I worked with Quynh this week on shoring up the different enemy behaviors and also added the item drop chance to each enemy. It was this week that we decided that instead of harvesting the plants we should leave them up as more of a power-beacon mechanic, so we added in filling and watering but disabled harvesting. The dialog system was also tested with an auto-complete process but it was buggy so it was disabled.
 
 ### Will
-
+I had previously sketched all the monsters for testing purposes, but once the code was more refined for them, I went ahead and turned them into completed assets. I also made a few background decorations, just to add a tiny bit of variety to the field, though I don’t really know how noticeable it is. I think it’s cute, anyways.
 ### Quynh
 This week, John and I focused on completing the scripts for our monsters. I started to work on the fly enemy's attack. Since we are using a generic Enemies class that all enemies inherit, I also worked on incorparating the fly enemy's script to work with the generic enemy class.
 ### Michaela
