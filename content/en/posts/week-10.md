@@ -16,6 +16,8 @@ Our second exam took place Monday of this week, so we were able to spend a minim
 
 ### John
 
+I was occupied this week with the exam and working on my senior design project. It was also good to take a break and allow for the feedback before we change things around. Some of the feedback was useful but has been difficult to replicate. So I've been unsure if we disable features that are potentially buggy for the sake of that off-chance someone gets stuck, or try to add some more checks and hope for the best. We also decided on how to spend the rest of our time that wasn't devoted to dealing with feedback, so we're now adding our last areas to the game.
+
 ### Will
 
 ### Quynh
