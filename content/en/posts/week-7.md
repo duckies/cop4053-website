@@ -18,7 +18,7 @@ With our main hub area mostly completed, our next step was to begin development 
 This week I had worked with Quynh on building a system for enemies to inherit fighting styles. Our first enemies would be the patroller and turret, with variants for flying patroller and projectiles that seek or do not seek.
 
 ### Will
-
+I completed the original four plant concepts I came up with (the mushroom was already finished before then, but I finished the other three had now sketched up) and attempted a forest-esc tileset. Gonna be honest, even though its not terrible, I’m still not a big fan of it. Maybe I’m just too critical of my own work.
 ### Quynh
 For this week, I continued my work with changing the slime's behavior by following some tutorials about coroutines and working with IEnumerators. I also added some character's attacking animations to our game that Will drew. 
 ### Michaela
