@@ -15,6 +15,8 @@ In our final (full) week of development, we had to create a PowerPoint for our g
  
 ### John
 
+I had helped write up the challenges we faced when dealing with the farming systems. The system works well, but I do know that you can "store" a gameobject in a tile, I just never investigated it further or figured it out enough to understand more, but our approach works on a smaller scale. Had we been able to re-do the project I would have likely not used farm plots and instead potted plants to more accenuate that they're more of an unlocking pylon of sorts. The new enemies also extended off of the previous ones without much issue, and we're interested to see how that plays out with the ranged mechanics.
+
 ### Will
 
 ### Quynh
