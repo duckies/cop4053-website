@@ -24,6 +24,7 @@ After much frustration with the isometric style, which was less documented onlin
 This week was especially frustrating because when we realized the scope of our project was way over our heads, I had to scrap some of the progress I made on things that would only be relevant in that art style (like pillars and décor for the main hub area), and I just focused on getting side sprites for the character and some ground tile textures done. To be blunt, textures are my weak suit, so if you notice some similarities with some other textures going forward… don’t blame me for trying to reuse the good things I made in a smart way!
 
 ### Quynh
+Most of this week I spent studying for our first class exam. I met up with the others and pitched some ideas about our game design. I was pretty satisfied with the switch that we had decided.
 
 ### Michaela
 After the whole debacle this week of trying to decide which style of game we were switching to, I had to start thinking of UI designs. I was able to order a Huion drawing tablet from Amazon for relatively cheap. Once my tablet arrived, I sketched out a few of these ideas in Paint Tool SAI, including ideas for the speech bubbles and menu buttons. Our team was engaged in constant communication this week as we tried to figure out what mechanics and art assets needed to be amended to make the switch from an isometric game to a 2D platformer game.
